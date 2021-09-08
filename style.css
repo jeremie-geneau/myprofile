@@ -1,0 +1,23 @@
+.card-red{
+	background-color: skyblue;
+	padding: 90px;
+	margin: 70px O;
+	border-radius: 100px; 
+	box-shadow: 10px 35px 20px rgba(0, 0, 0, 1.0);
+}
+
+
+.toto {
+	background-color: white;
+	padding: 90px;
+	margin: 40px 0;
+	border-radius: 100px;
+	box-shadow: 10px 35px 20 px rgba(0, 0, 0, 1.0);
+}
+
+
+.container{
+	width: 800px;
+	margin: 0 auto;
+	text-align: center;
+}
